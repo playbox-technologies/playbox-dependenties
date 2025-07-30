@@ -1,7 +1,7 @@
 ﻿{
   "name": "facebook.sdk",
   "displayName": "Playbox-Installer",
-  "author": "meta",
+  "author": "facebook",
   "version": "18.0.0",
   "description": "Facebook Sdk",
   "keywords": [
