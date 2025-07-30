@@ -1,13 +1,10 @@
 ﻿{
-  "name": "facebook.sdk",
-  "displayName": "facebook sdk",
-  "author": "facebook",
-  "version": "18.0.0",
-  "description": "Facebook Sdk",
-  "keywords": [
-    "utility",
-    "tools"
-  ],
-  "dependencies": {
+  "name": "com.playbox.facebooksdk",
+  "version": "1.0.0",
+  "displayName": "Playbox Facebook SDK",
+  "description": "Facebook SDK wrapper for Playbox projects",
+  "unity": "2021.3",
+  "author": {
+    "name": "Playbox Technologies"
   }
 }
