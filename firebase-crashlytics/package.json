@@ -1,14 +1,10 @@
 ﻿{
-  "name": "playbox-dependenties",
-  "displayName": "Playbox-Installer",
-  "author": "playbox",
-  "version": "0.0.2",
-  "description": "Playbox Base Installer",
-  "keywords": [
-    "utility",
-    "tools"
-  ],
-  "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  "name": "com.playbox.facebooksdk",
+  "version": "1.0.0",
+  "displayName": "Playbox Facebook SDK",
+  "description": "Facebook SDK wrapper for Playbox projects",
+  "unity": "2021.3",
+  "author": {
+    "name": "Playbox Technologies"
   }
 }
