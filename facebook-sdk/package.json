@@ -1,14 +1,13 @@
 ﻿{
-  "name": "playbox-dependenties",
+  "name": "facebook.sdk",
   "displayName": "Playbox-Installer",
-  "author": "playbox",
-  "version": "0.0.2",
-  "description": "Playbox Base Installer",
+  "author": "meta",
+  "version": "18.0.0",
+  "description": "Facebook Sdk",
   "keywords": [
     "utility",
     "tools"
   ],
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.2.1"
   }
 }
